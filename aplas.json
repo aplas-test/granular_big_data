@@ -1,21 +1,25 @@
 {
-  "id": "granular_big_data",
-  "name": "Granular Big data",
-  "categoryId": "billing",
-  "description": "Face to face optimal encoding",
-  "investment_24m": "796",
-  "hostedtype": "AWS",
-  "licensing_cost": "36",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "322",
-  "deployment_date": "11/10/16",
-  "end_of_maintenance": "15/8/17",
-  "department": "Research and Development",
-  "status": "Active",
-  "end_of_life": "31/3/19",
-  "sme_name": "Patrica Castellaccio",
-  "months_to_renew_support": "19",
-  "sme_email": "Patrica.Castellaccio@memento.net.au",
-  "investment_number": "438"
+  "applications": [
+    {
+      "id": "granular_big_data",
+      "name": "Granular Big data",
+      "categoryId": "billing",
+      "description": "Face to face optimal encoding",
+      "investment_24m": "796",
+      "hostedtype": "AWS",
+      "licensing_cost": "36",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "322",
+      "deployment_date": "11/10/16",
+      "end_of_maintenance": "15/8/17",
+      "department": "Research and Development",
+      "status": "Active",
+      "end_of_life": "31/3/19",
+      "sme_name": "Patrica Castellaccio",
+      "months_to_renew_support": "19",
+      "sme_email": "Patrica.Castellaccio@memento.net.au",
+      "investment_number": "438"
+    }
+  ]
 }
