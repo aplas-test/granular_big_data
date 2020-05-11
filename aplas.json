@@ -9,24 +9,23 @@
       "description": "Face to face optimal encoding",
       "categoryId": "billing",
       "applicationSize": "large",
-      "status": "standard",
       "licensing_cost": "36",
       "status_color": "#00FF00",
       "department": "Research and Development",
       "hostedtype": "AWS",
       "deployment_date": "11/10/16",
-      "investment_number": "438",
+      "investment_number": 438,
       "type": "OffShelf",
       "sme_email": "Patrica.Castellaccio@memento.net.au",
       "investment_24m": "796",
       "sme_name": "Patrica Castellaccio",
       "support_cost": "322",
       "end_of_life": "31/3/19",
-      "months_to_renew_support": "19",
+      "months_to_renew_support": 19,
       "end_of_maintenance": "15/8/17",
       "integrations": [
         {
-          "assetId": "int-446",
+          "id": "int-446",
           "name": "INT-446",
           "shortName": null,
           "version": "5.9.4",
@@ -34,7 +33,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "holistic_digital",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Matelda Nuss",
           "status_color": "#FFFF24",
           "department": "Integration",
@@ -47,7 +45,7 @@
           "golive_date": "23/7/17"
         },
         {
-          "assetId": "int-333",
+          "id": "int-333",
           "name": "INT-333",
           "shortName": null,
           "version": "3.79",
@@ -55,7 +53,6 @@
           "payload": "Online Product Feed and Order Cancellation",
           "targetApplicationId": "veribet",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Adelice Passby",
           "status_color": "#0000FF",
           "department": "Integration",
@@ -68,7 +65,7 @@
           "golive_date": "16/9/12"
         },
         {
-          "assetId": "int-263",
+          "id": "int-263",
           "name": "INT-263",
           "shortName": null,
           "version": "0.9.5",
@@ -76,7 +73,6 @@
           "payload": "Sales - Books",
           "targetApplicationId": "holistic_digital",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Tonya Oldcroft",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -89,7 +85,7 @@
           "golive_date": "4/3/04"
         },
         {
-          "assetId": "int-070",
+          "id": "int-070",
           "name": "INT-070",
           "shortName": null,
           "version": "0.16",
@@ -97,7 +93,6 @@
           "payload": "Receipt - Reservations",
           "targetApplicationId": "gembucket",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Isacco Tucker",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -110,7 +105,7 @@
           "golive_date": "8/6/02"
         },
         {
-          "assetId": "int-230",
+          "id": "int-230",
           "name": "INT-230",
           "shortName": null,
           "version": "7.8.7",
@@ -118,7 +113,6 @@
           "payload": "Sales below cost, Stock On Hand",
           "targetApplicationId": "innovative_web",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Flem Mungan",
           "decom_date": "20/12/14",
           "status_color": "#FF0000",
@@ -132,7 +126,7 @@
           "golive_date": "13/2/06"
         },
         {
-          "assetId": "int-082",
+          "id": "int-082",
           "name": "INT-082",
           "shortName": null,
           "version": "6.4.1",
@@ -140,7 +134,6 @@
           "payload": "Receipt - Receiving Import",
           "targetApplicationId": "innovation_4g",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gualterio Trevaskiss",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -153,7 +146,7 @@
           "golive_date": "4/12/04"
         },
         {
-          "assetId": "int-421",
+          "id": "int-421",
           "name": "INT-421",
           "shortName": null,
           "version": "5.4.0",
@@ -161,7 +154,6 @@
           "payload": "Week to Date Sales",
           "targetApplicationId": "holistic_digital",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Gunner Cust",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -174,7 +166,7 @@
           "golive_date": "11/7/14"
         },
         {
-          "assetId": "int-452",
+          "id": "int-452",
           "name": "INT-452",
           "shortName": null,
           "version": "2.5",
@@ -182,7 +174,6 @@
           "payload": "Invoice (Invoice, RCTI, Claims)",
           "targetApplicationId": "holistic_digital",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Hannis Pantin",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -195,7 +186,7 @@
           "golive_date": "26/12/07"
         },
         {
-          "assetId": "int-456",
+          "id": "int-456",
           "name": "INT-456",
           "shortName": null,
           "version": "1.33",
@@ -203,7 +194,6 @@
           "payload": "Promotion - Dept Discount",
           "targetApplicationId": "repoware",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Tonya Oldcroft",
           "status_color": "#00FF00",
           "department": "Integration",
